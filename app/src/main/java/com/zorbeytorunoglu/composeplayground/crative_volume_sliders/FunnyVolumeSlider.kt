@@ -83,7 +83,7 @@ fun BalanceBar(
     ) {
 
         Text(
-            text = "Volume: $volume xD",
+            text = "Volume: $volume",
             fontSize = 28.sp,
             fontWeight = FontWeight.Bold
         )
